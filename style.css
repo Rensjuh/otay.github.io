@@ -134,11 +134,9 @@ ul li a:hover {
 }
 
 .invitebutton {
-  position: absolute;
-  left: 46.8%;
-  top: 56%;
-  display: inline-block;
-  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  margin-top: 1%;
 }
 
 .invitebutton img:hover{
